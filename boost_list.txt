@@ -1,0 +1,19 @@
+###########TBA-RAM-BOOST-#####################
+#// just put youre *.exe path in this TXT and#
+#runs the ram_lightspeed.exe as Administrator#
+###########TBA-RAM-BOOST-#####################
+C:\Program Files\WindowsApps\Microsoft.XboxGamingOverlay_7.325.11061.0_x64__8wekyb3d8bbwe\GameBar.exe
+C:\Users\LeLiLa\AppData\Local\NVIDIA Corporation\GeForceNOW\CEF\GeForceNOW.exe
+C:\Windows\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_ed7df476d41060e6\Display.NvContainer\NVDisplay.Container.exe
+C:\Windows\explorer.exe
+C:\Windows\System32\dwm.exe
+C:\Windows\System32\ntoskrnl.exe
+C:\Windows\System32\svchost.exe
+C:\Windows\System32\winload.efi
+C:\Windows\System32\winresume.efi
+C:\Windows\System32\hal.dll
+C:\Windows\System32\LogonUI.exe
+C:\Windows\System32\smss.exe       (Session Manager - startet alles andere)
+C:\Windows\System32\csrss.exe      (Win32 Subsystem)
+C:\Windows\System32\lsass.exe      (Anmeldung & Sicherheit)
+C:\Windows\System32\drivers\*.sys  (Kritische Treiber)
